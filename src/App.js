@@ -1,9 +1,10 @@
-import NumberGenerator from "./components/NumberGenerator";
+import GeradorDeNomes from "./components/GerarNomes";
+
 
 function App() {
   return (
     <div className="App">
-      <NumberGenerator />
+      <GeradorDeNomes />
     </div>
   );
 }
